@@ -1,0 +1,2 @@
+# RustRandomPasswordGenerator
+lol
